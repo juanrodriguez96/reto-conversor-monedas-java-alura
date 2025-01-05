@@ -16,9 +16,9 @@ Esta API permite su uso gratuito para estudiantes, desarrolladores, ingenieros y
 
 # Tecnologías empleadas en el programa
 
-**Java 22.0.2**
-**Gson**
-**ExchangeRate-API**
+**1. Java 22.0.2**
+**2. Gson**
+**3. ExchangeRate-API**
 
 # Requisitos previos para instalación y uso del programa
 
